@@ -1,0 +1,15 @@
+beautifulsoup4==4.8.0
+bs4==0.0.1
+certifi==2019.9.11
+chardet==3.0.4
+idna==2.8
+PyJWT==1.7.1
+PySocks==1.7.1
+pytz==2019.2
+requests==2.22.0
+six==1.12.0
+soupsieve==1.9.4
+twilio==6.31.0
+urllib3==1.25.6
+dj-database-url==0.5.0
+psycopg2-binary==2.8.3
