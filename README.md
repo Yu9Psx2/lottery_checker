@@ -11,8 +11,8 @@ As a first project, most of this was done step-by-step using stack overflow and 
 
 Coming into the project, I knew a bit about beautiful soup.
 
-I learned the following during the project:
--how to run the script on Heroku using a scheduler
--how to connect and write to pgadmin
--how to use definitions to break down my program into pieces
--I created a class for the first time - didn't really understand much as I was doing it
+I learned the following during the project:<br />
+-how to run the script on Heroku using a scheduler<br />
+-how to connect and write to pgadmin<br />
+-how to use definitions to break down my program into pieces<br />
+-I created a class for the first time - didn't really understand much as I was doing it<br />
