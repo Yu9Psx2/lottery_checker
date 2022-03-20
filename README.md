@@ -3,7 +3,7 @@ This is one of the first practical projects that I ever completed.
 
 I had a 6/49 lottery subscription where I played the same numbers every draw, and I wanted a way to know whether I won each draw. (Spoiler, I didn't win the big one <=*^( )
 
-![http://www.wclc.com/winning-numbers/lotto-649-extra.htm)](649.png)
+![http://www.wclc.com/winning-numbers/lotto-649-extra.htm)](649.PNG)
 
 
 ## Key takeaways
